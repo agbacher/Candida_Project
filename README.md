@@ -1,6 +1,6 @@
 _Last updated: April 22, 2026_
 
-This repository contains all code needed to reproduce the scRNA-seq and scTCR-seq analyses of the following article:
+This repository contains all code needed to reproduce the scRNA-seq and scTCR-seq analyses of the article:
 
 **Antigen-restricted homeostatic Candida albicans Th17 cells link oral-gut immunity and adapt in intestinal inflammation**
  
