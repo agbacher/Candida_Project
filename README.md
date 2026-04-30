@@ -1,12 +1,12 @@
 # Candida Project
 
-Updated: March, 2026
+Updated: April, 2026
 
 ## About
 
 This repository contains all code needed to reproduce the scRNA-seq and scTCR-seq analyses of the [article](https://www.cell.com/immunity/fulltext):
 
-G. Rios Martini, P. Hofmann et al. Antigen-restricted homeostatic Candida albicans Th17 cells link oral-gut immunity and adapt in intestinal inflammation. _Immunity_ 2026.
+G. Rios Martini, P. Hofmann, _et al._ Antigen-restricted homeostatic Candida albicans Th17 cells link oral-gut immunity and adapt in intestinal inflammation. _Immunity (2026)_. DOI: 10.
 
 
 
