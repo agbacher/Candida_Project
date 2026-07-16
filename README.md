@@ -4,9 +4,9 @@ Updated: April, 2026
 
 ## About
 
-This repository contains all code needed to reproduce the scRNA-seq and scTCR-seq analyses of the [article](https://www.cell.com/immunity/fulltext):
+This repository contains all code needed to reproduce the scRNA-seq and scTCR-seq analyses of the [article]([https://www.cell.com/immunity/fulltext](https://doi.org/10.1016/j.immuni.2026.06.013)):
 
-G. Rios Martini, P. Hofmann, _et al._ Antigen-restricted homeostatic Candida albicans Th17 cells link oral-gut immunity and adapt in intestinal inflammation. _Immunity (2026)_. DOI: 10.
+G. Rios Martini, P. Hofmann, _et al._ Antigen-restricted homeostatic Candida albicans Th17 cells link oral-gut immunity and adapt in intestinal inflammation. _Immunity (2026)_. DOI: 10.1016/j.immuni.2026.06.013
 
 
 
@@ -19,7 +19,5 @@ G. Rios Martini, P. Hofmann, _et al._ Antigen-restricted homeostatic Candida alb
 ## Questions/ contact
 
 Formal questions about this work should be addressed to the corresponding author: [Petra Bacher](mailto:p.bacher@ikmb.uni-kiel.de). 
-
-For questions or comments related to the specific code, please raise an issue. 
 
 <br><br>
